@@ -1,5 +1,5 @@
 function saluer(nom) {
-  return 'Bonjour ' + nom + ' !';
+  return 'Salut ' + nom + ' !';
 }
 
 // So that tests (Node.js) can use the function
